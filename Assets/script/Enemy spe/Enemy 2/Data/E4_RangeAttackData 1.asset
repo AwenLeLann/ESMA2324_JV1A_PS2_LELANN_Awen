@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1700b8f0464074bbbc591a47f8f76c, type: 3}
+  m_Name: E4_RangeAttackData 1
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 9183187681067998572, guid: edb117d3cc7f9344494c7e87a1c9645e, type: 3}
+  projectileDamage: 8
+  projectileSpeed: 5
+  projectileTravelDistance: 4
